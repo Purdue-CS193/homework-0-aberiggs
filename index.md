@@ -1,3 +1,27 @@
+# Sprocket's First CS193 Homework
+
+My favorite things about CS193:
+- Covers interesting and important topics (Terminal/vim, debugging, source control)
+- Kind TA's
+- Straightforward/clear instructions on work
+
+```java
+public class Main{
+  public static void main(String[] args) {
+    System.out.println("Hello World!");
+  }
+}
+
+```
+
+
+
+
+
+
+# Template Starts Here
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -9,6 +33,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+# I'm Sprocket! 
+
 Syntax highlighted code block
 
 # Header 1
